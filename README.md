@@ -49,7 +49,5 @@ Most of the work here is done using:
 
 More advanced tools and deployment frameworks will be added as I grow.
 
----
 
-## How This Repo Is Organized (Roughly)
 
