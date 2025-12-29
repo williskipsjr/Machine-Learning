@@ -1,0 +1,48 @@
+# Dataset folders - L01 Spam Classifier
+L01/20021010_easy_ham/
+L01/20030228_hard_ham/
+L01/20030228_spam/
+L01/*.tar.bz2
+
+# Generated images/outputs
+L05/mnist_dimred_comparison.png
+L06/olivetti_classification_performance.png
+L06/olivetti_clusters_visualization.png
+L06/olivetti_cluster_samples.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large data files
+*.csv
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.mat
+
+# Logs
+*.log
